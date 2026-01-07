@@ -1,13 +1,189 @@
-<h1>Craftable Items MOD</h1>
-<img width="250" height="250" alt="icon" src="https://github.com/user-attachments/assets/2e224573-e224-4962-934c-10d095f0e27c" />
-<p>Make uncraftable items Craftable</p>
+## this mod is adds a recipe for items that can't craft in vanilla, To see the recipe, please see the picture.
+  
+i highly recommended you to use [Roughly Enough Items (REI)](https://modrinth.com/mod/rei/version/18.0.804+fabric), [Mine Spawners](https://modrinth.com/mod/mine-spawners/version/aMAMQxLy) and [Obtainable End](https://modrinth.com/mod/obtainable-end) or my own mod [Breakable Blocks](https://modrinth.com/mod/breakable-blocks).
 
-<h2> Mod Maker </h2>
-<a href="https://modrinth.com/user/BadutZY" target="_blank">Me</a> and <a href="https://claude.ai/" target="_blank"> ClaudeAI </a>
+<center> 
 
-<h2>Preview</h2>
-<img width="512" height="150" alt="minecraft_title" src="https://github.com/user-attachments/assets/586b31e4-8a35-4ba5-82ce-61a5bd7e8ff3" />
-<br>
-<img width="372" height="271" alt="totem" src="https://github.com/user-attachments/assets/6578c9c0-166e-4c9e-b481-97ac0b691396" />
+![title](https://cdn.modrinth.com/data/cached_images/aada0ab88dd3aec82e2a9b6cc1a0707f38a8118b.png)
 
-See details on <a href="https://modrinth.com/mod/craftable-items-mod">Modrinth</a>
+----------
+  
+# Spawn Egg Recipe
+
+All spawn eggs can be craft, you can see the same recipe in the [Craft Spawn Eggs](https://modrinth.com/datapack/craft-spawn-eggs)
+
+### Ender Dragon Spawn Egg
+![ed](https://cdn.modrinth.com/data/cached_images/5fe3102c6f9c94af9df9758a8864427ac0a10f41.jpeg)
+
+### Wither Spawn Egg
+![ww](https://cdn.modrinth.com/data/cached_images/9be66dd9aab0feec9f29be61274edaaea9574633.png)
+
+### Copper Golem Spawn Egg
+![copper golem](https://cdn.modrinth.com/data/cached_images/c5cbf88d2a06acc6a3d87269f183cc30072ac97b.jpeg)
+</center>
+
+<details>
+  <summary>Update</summary>
+
+<center>
+
+### Camel Husk Spawn Egg
+![Camel Husk](https://cdn.modrinth.com/data/cached_images/354fc19f2345de41595ccd3fa3a2b2b2abe76e73.jpeg)
+
+### Parched Spawn Egg
+![parched](https://cdn.modrinth.com/data/cached_images/047c71a30799cc01cd4803ac0f2b9197734417c8.jpeg)
+
+### Nautilus Spawn Egg
+![nautilus](https://cdn.modrinth.com/data/cached_images/c08c454b9dee5ea1fa1b1a79740a571fa97e663f.jpeg)
+
+### Nuatilus Zombile Spawn Egg
+![nautilus Z](https://cdn.modrinth.com/data/cached_images/6d319afaa6d8f417d5f18cd66bcca44ef1bcda93.jpeg)
+</details>
+
+<details>
+<summary>Items & Blocks</summary>
+
+<center>
+
+# Items & Blocks
+
+### Totem of Undying
+![totem](https://cdn.modrinth.com/data/cached_images/84807850dd73232807b42ad3bfb7f1b136ffdd1f.png)
+
+### Monster Spawner
+![spawner](https://cdn.modrinth.com/data/cached_images/1bcc3f4033071380475cf4b2872f6133ee66ba66.png)
+
+### Enchanted Golden Apple
+![ega](https://cdn.modrinth.com/data/cached_images/70ecc176db1f79dfa15ec43faa7d37cc6293dd60.png)
+
+### Saddle
+![saddle](https://cdn.modrinth.com/data/cached_images/339c9ce6d4ac65de9225937a6a6c37bbb67d2e2e.png)
+
+### Elytra
+![elytra](https://cdn.modrinth.com/data/cached_images/6a8e867bcec7364a48eff4c76a90c799ef9679f3.png)
+
+### Name Tag
+![Name Tag](https://cdn.modrinth.com/data/cached_images/167926d00a5f785ac6bf17b0969107dde6dd2998.png)!
+
+### Trident
+![tr](https://cdn.modrinth.com/data/cached_images/5b6f89594f7c95fa98200b981647baa066467e68.png)
+
+### End Portal Frame
+![end](https://cdn.modrinth.com/data/cached_images/af5ea409836e2281d9828da40ed4667d89587f41.png)
+
+</center>
+</details>
+
+
+<details>
+<summary>Horse Armor</summary>
+
+<center>
+
+# Horse Armor
+
+### Leather
+![l](https://cdn.modrinth.com/data/cached_images/c3f0ec052aaf228a5095670c46689ecd85473f00.png)
+
+### Iron
+![i](https://cdn.modrinth.com/data/cached_images/94d26a73f8a7bd5388a7421266b180d44169f1a9.png)
+
+### Copper
+![copper horse](https://cdn.modrinth.com/data/cached_images/27d538f6112de59a5e1f9799f56b78734ad4d37a.jpeg)
+
+### Gold
+![g](https://cdn.modrinth.com/data/cached_images/4876047c5c27038997716c89729837143aa95555.png)
+
+### Diamond
+![d](https://cdn.modrinth.com/data/cached_images/056605790622f9fa71cee068916b3557a9271561.png)
+
+</center>
+</details>
+
+<details>
+<summary>Nautilus Armor</summary>
+
+<center>
+
+# Nautilus Armor
+
+### Iron
+![nautilus iron](https://cdn.modrinth.com/data/cached_images/f4807c7e8b5e31c4404db1ca8e076c743ada1e1b_0.webp)
+
+### Copper
+![nautilus copper](https://cdn.modrinth.com/data/cached_images/c43313ba71215a18e9377c0b1f4d9f5ea5ea8f50.jpeg)
+
+### Gold
+![nautilus gold](https://cdn.modrinth.com/data/cached_images/f6e85460100d5ade67b44a7377ce2c5ecfde6b80.jpeg)
+
+### Diamond
+![nautilus d](https://cdn.modrinth.com/data/cached_images/f6a06ffa6aea504102587d7153b0f90e501bca71.jpeg)
+
+</center>
+</details>
+
+<details>
+<summary>Chain Armor</summary>
+
+<center>
+
+# Chain Armor
+
+### Chain
+![c](https://cdn.modrinth.com/data/cached_images/e924f8202f9f6c86fac8d5f7bd46d09c9008d469.png)
+
+### Helmet
+![h](https://cdn.modrinth.com/data/cached_images/a4fe0bfe3f150b5d5ca6614be4ee9e23c62feddb.png)
+
+### Chestplate
+![c](https://cdn.modrinth.com/data/cached_images/6aad186ee5ac469fa1898dc8990e09b8d8ea043f.png)
+
+### Leggings
+![l](https://cdn.modrinth.com/data/cached_images/8381e5828c720f60520cc17fc67b7a8ce63c8662.png)
+
+### Boots
+![b](https://cdn.modrinth.com/data/cached_images/de70e6fa559f5717bdfcb66731e9d1cfb14adf99.png)
+
+</center>
+</details>
+
+<details>
+<summary>Netherite</summary>
+
+
+<center>
+
+# Netherite
+
+### Netherite Upgrade
+![n1](https://cdn.modrinth.com/data/cached_images/1337a69ccdd8ac0f8a74639daa1e4df78a471dbb.png)
+
+### Sword
+![n2](https://cdn.modrinth.com/data/cached_images/3ac1be519ff7b1e6b1577a28a1e4bbf9e770d5d3.png)
+
+### Shovel
+![n3](https://cdn.modrinth.com/data/cached_images/0a3b824ebb494a986c56405d4dc234bb7ccde11d.png)
+
+### Pickaxe
+![n4](https://cdn.modrinth.com/data/cached_images/e863dc945f77d1d66025c0dc9093d639765b281a.png)
+
+### Axe
+![n5](https://cdn.modrinth.com/data/cached_images/51a7d0f98b00e84a83b1c479e944a6227adfef2b.png)
+
+### Hoe
+![n6](https://cdn.modrinth.com/data/cached_images/8c6edcde7f132dce5841b46764121c046c5a360b.png)
+
+### Helmet
+![n7](https://cdn.modrinth.com/data/cached_images/6f8d5989c6df493023a3f1e617b7559ffb128e77.png)
+
+### Chestplate
+![n8](https://cdn.modrinth.com/data/cached_images/75749b034fb9b50e42ea5dd7204b0c68e62a170e.png)
+
+### Leggings
+![n9](https://cdn.modrinth.com/data/cached_images/1aabb8d2e55d8c4b8fe438beb1ecb4aadce5eb41.png)
+
+### Boots
+![n10](https://cdn.modrinth.com/data/cached_images/5e3c331db00b3b4a96f06a065adf199a10e77607.png)
+
+</center>
+</details>
